@@ -1,0 +1,16 @@
+Proyecto: Analizador Semántico y Sintáctico
+
+Lenguaje: C
+Herramientas: Bison, Flex, GCC
+
+Funcionalidades:
+- Reconoce tipos: int, float, char
+- Soporta inicializaciones en declaraciones
+- Inserta variables en tabla de símbolos
+- Detecta errores semánticos (tipo incompatible, variable no declarada)
+- Detecta errores sintácticos
+
+Archivo de prueba: prueba1.c
+Resultado: sin errores, procesado correctamente
+
+Autor: Gloribelys Acosta P. 1-21-0359
